@@ -1,0 +1,4 @@
+Invoking command in '/home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg -- -j6 -l6
+Invoked command in '/home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg -- -j6 -l6
+Invoking command in '/home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg
+Invoked command in '/home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/drag0n0wl/ros2_ws/src/build/my_cpp_pkg
