@@ -1,0 +1,10 @@
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/uninstall.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/my_cpp_pkg_uninstall.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/cpp_node.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/test.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/edit_cache.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/rebuild_cache.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/list_install_components.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/install.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/install/local.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/install/strip.dir
