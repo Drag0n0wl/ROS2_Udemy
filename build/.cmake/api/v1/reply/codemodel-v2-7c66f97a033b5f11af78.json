@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-d6a2019938f7d73111d3.json",
+					"jsonFile" : "directory-.-Debug-d8581c09047113002acf.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -18,7 +18,8 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					]
 				}
 			],
@@ -35,7 +36,8 @@
 					[
 						0,
 						1,
-						2
+						2,
+						3
 					]
 				}
 			],
@@ -44,7 +46,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "cpp_node::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cpp_node-Debug-718c4940f267aa90be07.json",
+					"jsonFile" : "target-cpp_node-Debug-f6df168cf6dd2d4a6996.json",
 					"name" : "cpp_node",
 					"projectIndex" : 0
 				},
@@ -53,6 +55,13 @@
 					"id" : "my_cpp_pkg_uninstall::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-my_cpp_pkg_uninstall-Debug-41f4ec1c274a1877a839.json",
 					"name" : "my_cpp_pkg_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "robot_news_station::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-robot_news_station-Debug-02b180d8fd645956ffdb.json",
+					"name" : "robot_news_station",
 					"projectIndex" : 0
 				},
 				{

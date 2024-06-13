@@ -36,13 +36,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 17,
+				"line" : 21,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 23,
+				"line" : 28,
 				"parent" : 0
 			},
 			{
@@ -233,6 +233,18 @@
 			],
 			"targetId" : "cpp_node::@6890427a1f51a3e7e1df",
 			"targetIndex" : 0,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/my_cpp_pkg",
+			"paths" : 
+			[
+				"robot_news_station"
+			],
+			"targetId" : "robot_news_station::@6890427a1f51a3e7e1df",
+			"targetIndex" : 2,
 			"type" : "target"
 		},
 		{

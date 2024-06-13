@@ -1939,7 +1939,19 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "/opt/ros/humble/lib/librosgraph_msgs__rosidl_typesupport_fastrtps_cpp.so"
+			"value" : "/opt/ros/humble/lib/libexample_interfaces__rosidl_typesupport_fastrtps_cpp.so"
+		},
+		{
+			"name" : "action_msgs_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for action_msgs."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/opt/ros/humble/share/action_msgs/cmake"
 		},
 		{
 			"name" : "ament_cmake_DIR",
@@ -2156,6 +2168,18 @@
 			],
 			"type" : "PATH",
 			"value" : "/opt/ros/humble/share/builtin_interfaces/cmake"
+		},
+		{
+			"name" : "example_interfaces_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for example_interfaces."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/opt/ros/humble/share/example_interfaces/cmake"
 		},
 		{
 			"name" : "fastcdr_DIR",
@@ -2728,6 +2752,18 @@
 			],
 			"type" : "PATH",
 			"value" : "/opt/ros/humble/share/tracetools/cmake"
+		},
+		{
+			"name" : "unique_identifier_msgs_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "The directory containing a CMake configuration file for unique_identifier_msgs."
+				}
+			],
+			"type" : "PATH",
+			"value" : "/opt/ros/humble/share/unique_identifier_msgs/cmake"
 		},
 		{
 			"name" : "yaml_DIR",
