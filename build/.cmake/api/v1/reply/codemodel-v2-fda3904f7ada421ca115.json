@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-d8581c09047113002acf.json",
+					"jsonFile" : "directory-.-Debug-2f9136d31486dcf33d79.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -19,7 +19,8 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				}
 			],
@@ -37,7 +38,8 @@
 						0,
 						1,
 						2,
-						3
+						3,
+						4
 					]
 				}
 			],
@@ -46,7 +48,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "cpp_node::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cpp_node-Debug-f6df168cf6dd2d4a6996.json",
+					"jsonFile" : "target-cpp_node-Debug-71cfa52872b4027cdd91.json",
 					"name" : "cpp_node",
 					"projectIndex" : 0
 				},
@@ -60,8 +62,15 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "robot_news_station::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-robot_news_station-Debug-02b180d8fd645956ffdb.json",
+					"jsonFile" : "target-robot_news_station-Debug-a63df214119cd105a921.json",
 					"name" : "robot_news_station",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "smartphone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-smartphone-Debug-a99fe060fb76280d8e8e.json",
+					"name" : "smartphone",
 					"projectIndex" : 0
 				},
 				{

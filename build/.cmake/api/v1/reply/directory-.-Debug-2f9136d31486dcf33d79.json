@@ -36,13 +36,13 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 21,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 0,
-				"line" : 28,
+				"line" : 32,
 				"parent" : 0
 			},
 			{
@@ -245,6 +245,18 @@
 			],
 			"targetId" : "robot_news_station::@6890427a1f51a3e7e1df",
 			"targetIndex" : 2,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib/my_cpp_pkg",
+			"paths" : 
+			[
+				"smartphone"
+			],
+			"targetId" : "smartphone::@6890427a1f51a3e7e1df",
+			"targetIndex" : 3,
 			"type" : "target"
 		},
 		{

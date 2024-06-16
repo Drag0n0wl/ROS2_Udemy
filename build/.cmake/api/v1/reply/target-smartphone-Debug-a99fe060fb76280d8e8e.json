@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "robot_news_station"
+			"path" : "smartphone"
 		}
 	],
 	"backtrace" : 1,
@@ -30,19 +30,19 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 17,
+				"line" : 20,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 21,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 18,
+				"line" : 21,
 				"parent" : 0
 			},
 			{
@@ -247,7 +247,7 @@
 			]
 		}
 	],
-	"id" : "robot_news_station::@6890427a1f51a3e7e1df",
+	"id" : "smartphone::@6890427a1f51a3e7e1df",
 	"install" : 
 	{
 		"destinations" : 
@@ -606,8 +606,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "robot_news_station",
-	"nameOnDisk" : "robot_news_station",
+	"name" : "smartphone",
+	"nameOnDisk" : "smartphone",
 	"paths" : 
 	{
 		"build" : ".",
@@ -628,7 +628,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "src/robot_news_station.cpp",
+			"path" : "src/smartphone.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

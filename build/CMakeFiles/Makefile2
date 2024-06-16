@@ -65,6 +65,7 @@ CMAKE_BINARY_DIR = /home/drag0n0wl/ros2_ws/src/build
 # The main recursive "all" target.
 all: CMakeFiles/cpp_node.dir/all
 all: CMakeFiles/robot_news_station.dir/all
+all: CMakeFiles/smartphone.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -76,6 +77,7 @@ clean: CMakeFiles/uninstall.dir/clean
 clean: CMakeFiles/my_cpp_pkg_uninstall.dir/clean
 clean: CMakeFiles/cpp_node.dir/clean
 clean: CMakeFiles/robot_news_station.dir/clean
+clean: CMakeFiles/smartphone.dir/clean
 .PHONY : clean
 
 #=============================================================================
@@ -181,6 +183,32 @@ robot_news_station: CMakeFiles/robot_news_station.dir/rule
 CMakeFiles/robot_news_station.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/robot_news_station.dir/build.make CMakeFiles/robot_news_station.dir/clean
 .PHONY : CMakeFiles/robot_news_station.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/smartphone.dir
+
+# All Build rule for target.
+CMakeFiles/smartphone.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/smartphone.dir/build.make CMakeFiles/smartphone.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/smartphone.dir/build.make CMakeFiles/smartphone.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/drag0n0wl/ros2_ws/src/build/CMakeFiles --progress-num=5,6 "Built target smartphone"
+.PHONY : CMakeFiles/smartphone.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/smartphone.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/drag0n0wl/ros2_ws/src/build/CMakeFiles 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/smartphone.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/drag0n0wl/ros2_ws/src/build/CMakeFiles 0
+.PHONY : CMakeFiles/smartphone.dir/rule
+
+# Convenience name for target.
+smartphone: CMakeFiles/smartphone.dir/rule
+.PHONY : smartphone
+
+# clean rule for target.
+CMakeFiles/smartphone.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/smartphone.dir/build.make CMakeFiles/smartphone.dir/clean
+.PHONY : CMakeFiles/smartphone.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
