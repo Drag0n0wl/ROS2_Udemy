@@ -9,16 +9,15 @@ class NumberPublisherNode(Node):  # MODIFY NAME
     def __init__(self):
         super().__init__("number_publisher")  # MODIFY NAME
 
-        self.publisher = self.create_publisher(Int64, "number", 10)
-        self.counter_ = 0
-        self.timer_ = self.create_timer(0.5, self.publish_news)
-        self.get_logger().info("Pub publisher has been started")
+        self.number_ = 2
+        self.number_publisher_ = self.create_publisher(Int64, "number", 10)
+        self.number_timer_ = self.create_timer(1.0, self.publish_number)
+        self.get_logger().info("Number publisher has been started")
 
-    def publish_news(self):
+    def publish_number(self):
         msg = Int64()
-        self.counter_ += 1
-        msg.data = self.counter
-        self.publisher.publish(msg)
+        msg.data = self.number_
+        self.number_publisher_.publish(msg)
 
 
 def main(args=None):
