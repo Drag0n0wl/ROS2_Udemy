@@ -3,6 +3,7 @@
 /home/drag0n0wl/ros2_ws/src/build/CMakeFiles/cpp_node.dir
 /home/drag0n0wl/ros2_ws/src/build/CMakeFiles/robot_news_station.dir
 /home/drag0n0wl/ros2_ws/src/build/CMakeFiles/smartphone.dir
+/home/drag0n0wl/ros2_ws/src/build/CMakeFiles/add_two_ints_server.dir
 /home/drag0n0wl/ros2_ws/src/build/CMakeFiles/test.dir
 /home/drag0n0wl/ros2_ws/src/build/CMakeFiles/edit_cache.dir
 /home/drag0n0wl/ros2_ws/src/build/CMakeFiles/rebuild_cache.dir

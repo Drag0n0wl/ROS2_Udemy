@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-2f9136d31486dcf33d79.json",
+					"jsonFile" : "directory-.-Debug-15e811a78f98afce7b45.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"
@@ -20,7 +20,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -39,7 +40,8 @@
 						1,
 						2,
 						3,
-						4
+						4,
+						5
 					]
 				}
 			],
@@ -47,8 +49,15 @@
 			[
 				{
 					"directoryIndex" : 0,
+					"id" : "add_two_ints_server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-add_two_ints_server-Debug-a8cce83e9aad1a205c08.json",
+					"name" : "add_two_ints_server",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
 					"id" : "cpp_node::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-cpp_node-Debug-71cfa52872b4027cdd91.json",
+					"jsonFile" : "target-cpp_node-Debug-9f63dc990b6d90b41c4e.json",
 					"name" : "cpp_node",
 					"projectIndex" : 0
 				},
@@ -62,14 +71,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "robot_news_station::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-robot_news_station-Debug-a63df214119cd105a921.json",
+					"jsonFile" : "target-robot_news_station-Debug-cb257fca67c1f70a6b14.json",
 					"name" : "robot_news_station",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "smartphone::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-smartphone-Debug-a99fe060fb76280d8e8e.json",
+					"jsonFile" : "target-smartphone-Debug-b66cafa904b883e09956.json",
 					"name" : "smartphone",
 					"projectIndex" : 0
 				},
