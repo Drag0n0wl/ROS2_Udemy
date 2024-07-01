@@ -3,7 +3,6 @@ import rclpy
 from rclpy.node import Node
 
 from example_interfaces.msg import Int64
-
 from example_interfaces.srv import SetBool
 
 
@@ -24,9 +23,9 @@ class NumberCounterNode(Node):  # MODIFY NAME
         self.get_logger().info("Reset number counter server has been started.")
 
         def callback_reset_number_count(self, request, response):
-            response.sum = request.a + request.b
-            self.get_logger().info(str(request.a) + " + " +
-                                   str(request.b) + " = " + str(response.sum))
+            if request.data is response.success:
+                self.counter_ = 0
+            self.get_logger().info(str(response.success))
 
     def callback_number(self, msg):
         self.counter_ += msg.data
